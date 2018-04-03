@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEAssignment</string>
+    <string name="initial_time">00:00</string>
+
+    <string name="fullscreen_image_button">Image button to switch in fullscreen mode</string>
+    <string name="play_image_button">Image button to play or pause the video</string>
+</resources>
